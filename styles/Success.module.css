@@ -1,0 +1,17 @@
+.success{
+    height: 100vh;
+    background-color: #aff8ff;
+  }
+  
+   .innerContainer{
+     padding: 30px;
+     color: #111;
+   }
+
+   .innerContainer h1{
+    color: black;
+    font-size: 52px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+  }
+  

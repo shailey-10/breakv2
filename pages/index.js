@@ -14,7 +14,7 @@ export default function Home() {
       <div className={styles.innerContainer}>
         <h1>Hello<span>. </span></h1>
         <p>Let&apos;s make your break better, just fill out the form and have a <b>Kit Kat</b> delivered right<b> at your desk</b>!</p>
-        <form name = "contact" method = "POST" data-netlify="true" className= {styles.form} action="/send-data-here" >
+        <form name = "contact" method = "POST" data-netlify="true" className= {styles.form} action="/pages/success" >
           <input type="hidden" name = "form-name" value="contact" />
           <label htmlFor="name">Name</label>
           <br/><br/>

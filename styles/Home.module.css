@@ -5,6 +5,12 @@
   background-repeat: no-repeat;
   background-size: cover;
  }
+
+.success{
+  height: 100vh;
+  background-color: #aff8ff;
+}
+
  .innerContainer{
    padding: 30px;
    color: #111;
