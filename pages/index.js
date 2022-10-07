@@ -13,7 +13,7 @@ export default function Home() {
       <main className={styles.main}>
       <div className={styles.innerContainer}>
         <h1>Hello<span>. </span></h1>
-        <p>Let&apos;s make your break better, just fill out the form and have a <b>Kit Kat</b> delivered right<b> at your desk</b>!</p>
+        <p>Hi I am Anshum an intern from the web team. Is Groww really Growwin, would love to hear from you!</p>
         <form name = "contact" method = "POST" data-netlify="true" className= {styles.form} action="/success" >
           <input type="hidden" name = "form-name" value="contact" />
           <label htmlFor="name">Name</label>
